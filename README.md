@@ -1,0 +1,2 @@
+# BlumAutoclicker
+Скрипт АВТОКЛИКЕР BLUM
